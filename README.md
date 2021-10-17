@@ -10,9 +10,7 @@ The solution is build using .NET Core 3.1
 
 # Patterns
  - CQRS, 
- - State
-
-
+ 
 Vending machine should support the following features:
 • Accept coins - Customer should be able to insert coins to the vending
 machine.
